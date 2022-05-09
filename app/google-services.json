@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957276756584",
+    "project_id": "dictionary-app-1e7ed",
+    "storage_bucket": "dictionary-app-1e7ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957276756584:android:bb5f5a0126627b5d0bf9dd",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957276756584-qi9hunb90v7ku92rrsqsrcuq59bnoa1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdyC_RfhjvGExyn2nHHtd1_MQIoWFsPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957276756584-qi9hunb90v7ku92rrsqsrcuq59bnoa1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

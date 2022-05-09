@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meow Dictionary</string>
+    <string name="action_home">Trang chủ</string>
+    <string name="action_search">Tra từ</string>
+    <string name="action_profile">Cá nhân</string>
+    <string name="action_myWord">Kho từ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
